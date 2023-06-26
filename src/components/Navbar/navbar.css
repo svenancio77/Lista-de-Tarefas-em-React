@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  background-color: gray;
+  color: #fff;
+  height: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 20px;
+  text-transform: uppercase;
+}
